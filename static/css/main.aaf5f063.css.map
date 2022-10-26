@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.aaf5f063.css","mappings":"AAAA,KACI,qBACJ,CACA,wBACI,UACJ","sources":["Components/Navbar.css"],"sourcesContent":[".bar{\r\n    background-color:blue;\r\n}\r\n.form-check form-switch{\r\n    float:left;\r\n}"],"names":[],"sourceRoot":""}
